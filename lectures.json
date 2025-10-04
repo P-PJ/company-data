@@ -1,0 +1,342 @@
+[
+  {
+    "courseId": "MGT101",
+    "title": "経営学入門",
+    "summary": "経営戦略・組織・マーケティング・会計など経営学の主要領域を俯瞰する。",
+    "topics": [
+      "経営戦略の基本",
+      "組織デザイン",
+      "マーケティング4P",
+      "財務会計の基礎",
+      "オペレーション概論"
+    ],
+    "learningObjectives": [
+      "主要領域の相互関係を説明できる",
+      "簡単な事例に対して経営課題を特定できる"
+    ],
+    "syllabus": [
+      "Week1: 経営学の全体像",
+      "Week2: 組織と人材",
+      "Week3: マーケティング基礎",
+      "Week4: 会計・財務のキホン",
+      "Week5: オペレーションと品質",
+      "Week6: 戦略思考ワークショップ"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "講義 + ケース討議",
+    "assessment": ["小テスト", "ケースメモ", "期末レポート"],
+    "projectIdea": "身近な企業のビジネスモデルを1枚で可視化（BMC）",
+    "recommendedTools": ["Google Slides", "Miro/ホワイトボード"]
+  },
+  {
+    "courseId": "ACC120",
+    "title": "財務会計の基礎",
+    "summary": "貸借対照表・損益計算書・キャッシュフロー計算書の読み方と基本分析。",
+    "topics": [
+      "仕訳と勘定科目",
+      "BS/PL/CF",
+      "収益認識",
+      "比率分析",
+      "利益とキャッシュの違い"
+    ],
+    "learningObjectives": [
+      "3表の関係を理解し説明できる",
+      "シンプルな財務分析ができる"
+    ],
+    "syllabus": [
+      "Week1: 簿記の超基礎",
+      "Week2: 貸借対照表",
+      "Week3: 損益計算書",
+      "Week4: キャッシュフロー計算書",
+      "Week5: 財務比率と簡易分析",
+      "Week6: 期末ミニケース"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 4,
+    "durationWeeks": 6,
+    "format": "講義 + 演習",
+    "assessment": ["演習課題", "小テスト", "期末テスト"],
+    "projectIdea": "上場企業1社の3表をまとめた財務スナップショット",
+    "recommendedTools": ["Excel/Google Sheets", "関数: SUM/AVERAGE/VLOOKUP"]
+  },
+  {
+    "courseId": "MKT130",
+    "title": "マーケティング基礎",
+    "summary": "顧客価値の設計、STPと4P、簡易な市場調査のやり方を学ぶ。",
+    "topics": ["STP", "4P", "カスタマージャーニー", "価格戦略", "簡易リサーチ"],
+    "learningObjectives": [
+      "ターゲットと提供価値を言語化できる",
+      "簡単な調査設計と施策提案ができる"
+    ],
+    "syllabus": [
+      "Week1: マーケ思考の基本",
+      "Week2: STPとポジショニング",
+      "Week3: 4P設計",
+      "Week4: 調査と仮説検証",
+      "Week5: 施策立案ワーク",
+      "Week6: 最終ピッチ"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "ワークショップ中心",
+    "assessment": ["調査計画書", "中間レビュー", "最終プレゼン"],
+    "projectIdea": "学内サービスの新規ターゲット提案",
+    "recommendedTools": ["Google Forms", "Canva/Slides"]
+  },
+  {
+    "courseId": "OB140",
+    "title": "組織行動とリーダーシップ",
+    "summary": "モチベーション・チームダイナミクス・意思決定バイアスを学ぶ。",
+    "topics": [
+      "動機づけ理論",
+      "心理的安全性",
+      "意思決定バイアス",
+      "コンフリクト管理",
+      "フィードバック"
+    ],
+    "learningObjectives": [
+      "チームで機能する振る舞いを実践できる",
+      "バイアスを意識した意思決定ができる"
+    ],
+    "syllabus": [
+      "Week1: 個人行動と動機づけ",
+      "Week2: チームとコミュニケーション",
+      "Week3: 権限・影響力・倫理",
+      "Week4: 意思決定とバイアス",
+      "Week5: フィードバック実践",
+      "Week6: リーダーシップ開発計画"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 2,
+    "durationWeeks": 6,
+    "format": "講義 + ロールプレイ",
+    "assessment": ["参加度", "リフレクションノート", "期末エッセイ"],
+    "projectIdea": "自分の行動特性の分析と改善アクションプラン",
+    "recommendedTools": ["日誌テンプレート", "360°フィードバックシート"]
+  },
+  {
+    "courseId": "OPS150",
+    "title": "オペレーションと改善思考",
+    "summary": "プロセス設計・ボトルネック・品質管理の基礎を体験的に学ぶ。",
+    "topics": [
+      "プロセスマップ",
+      "制約理論",
+      "在庫・リードタイム",
+      "品質7つ道具",
+      "改善サイクル"
+    ],
+    "learningObjectives": [
+      "業務プロセスを可視化し課題を特定できる",
+      "基本指標で改善案を提案できる"
+    ],
+    "syllabus": [
+      "Week1: プロセスの見える化",
+      "Week2: ボトルネック分析",
+      "Week3: 品質管理の基礎",
+      "Week4: 改善提案の作り方",
+      "Week5: シミュレーション演習",
+      "Week6: 改善ピッチ"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "演習中心",
+    "assessment": ["プロセスマップ提出", "改善提案書", "最終発表"],
+    "projectIdea": "学内イベント運営の待ち行列改善提案",
+    "recommendedTools": ["Lucidchart/Draw.io", "Excelの基本統計"]
+  },
+  {
+    "courseId": "FIN160",
+    "title": "ファイナンス入門（時間価値と投資判断）",
+    "summary": "お金の時間価値・NPV/IRR・リスクとリターンの基礎を学ぶ。",
+    "topics": [
+      "複利",
+      "NPV/IRR",
+      "割引率",
+      "ポートフォリオ直観",
+      "資本コストの考え方"
+    ],
+    "learningObjectives": [
+      "簡単な投資案件をNPVで比較できる",
+      "リスクとリターンのトレードオフを説明できる"
+    ],
+    "syllabus": [
+      "Week1: 時間価値の基礎",
+      "Week2: NPVと投資判断",
+      "Week3: IRRと感度分析",
+      "Week4: リスク/分散の直観",
+      "Week5: ケース演習",
+      "Week6: まとめと応用"
+    ],
+    "prerequisites": "中学レベルの数学",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "講義 + 計算演習",
+    "assessment": ["計算小テスト", "ミニケース", "期末試験"],
+    "projectIdea": "学園祭出店の投資採算性をNPVで評価",
+    "recommendedTools": ["Excel/Google Sheets", "NPV/IRR関数"]
+  },
+  {
+    "courseId": "STR170",
+    "title": "ビジネス戦略のフレームワーク",
+    "summary": "5フォース・バリューチェーン・ブルーオーシャン等の活用法を学ぶ。",
+    "topics": [
+      "業界分析",
+      "競争優位",
+      "差別化/コスト",
+      "価値提案",
+      "実行とKPI"
+    ],
+    "learningObjectives": [
+      "事例に適切なフレームを選び分析できる",
+      "実行可能なKPI設計を提案できる"
+    ],
+    "syllabus": [
+      "Week1: 外部環境分析",
+      "Week2: 内部資源とケイパビリティ",
+      "Week3: 競争戦略の型",
+      "Week4: 新規事業とブルーオーシャン",
+      "Week5: 実行・KPI・学習",
+      "Week6: ケース最終発表"
+    ],
+    "prerequisites": "MGT101推奨",
+    "difficulty": "Intermediate",
+    "workloadHoursPerWeek": 4,
+    "durationWeeks": 6,
+    "format": "ケースメソッド",
+    "assessment": ["ケースメモ", "参加発言", "最終レポート"],
+    "projectIdea": "地域企業のポジショニング再設計",
+    "recommendedTools": ["Strategy Canvas", "BMCテンプレート"]
+  },
+  {
+    "courseId": "LART180",
+    "title": "批判的思考とロジカルライティング（リベラルアーツ）",
+    "summary": "主張・根拠・反証の構造化と、明確で説得的な文章表現を鍛える。",
+    "topics": [
+      "主張/根拠/例示",
+      "反論先取り",
+      "因果と相関",
+      "レトリック",
+      "要約と編集"
+    ],
+    "learningObjectives": [
+      "構造化された論証文を書ける",
+      "誤謬を見抜き建設的な反論ができる"
+    ],
+    "syllabus": [
+      "Week1: 論証の型を学ぶ",
+      "Week2: 事例要約と立論",
+      "Week3: 反論と再反論",
+      "Week4: 分かりやすい表現と構成",
+      "Week5: ピアレビュー",
+      "Week6: 最終エッセイ提出"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "演習 + ピアレビュー",
+    "assessment": ["ドラフト", "ピアレビュー", "最終エッセイ"],
+    "projectIdea": "社会課題をテーマにした意見エッセイ",
+    "recommendedTools": ["Google Docs", "スタイルガイド"]
+  },
+  {
+    "courseId": "ETH190",
+    "title": "ビジネス倫理とサステナビリティ（リベラルアーツ）",
+    "summary": "企業倫理・ガバナンス・ESGの論点を事例で考える。",
+    "topics": [
+      "利害関係者資本主義",
+      "ガバナンス",
+      "データ倫理",
+      "環境とサプライチェーン",
+      "ダイバーシティ"
+    ],
+    "learningObjectives": [
+      "倫理的ジレンマに対する意思決定プロセスを説明できる",
+      "ESG観点からリスクと機会を整理できる"
+    ],
+    "syllabus": [
+      "Week1: 倫理フレームとジレンマ",
+      "Week2: ガバナンスと内部統制",
+      "Week3: データ/AI倫理",
+      "Week4: 環境・人権・調達",
+      "Week5: 企業の実践事例",
+      "Week6: ポリシー提案ワーク"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 2,
+    "durationWeeks": 6,
+    "format": "ケース討議",
+    "assessment": ["ケースメモ", "政策提言メモ"],
+    "projectIdea": "大学内のサステナ施策提案",
+    "recommendedTools": ["KPIフレーム", "利害関係者マップ"]
+  },
+  {
+    "courseId": "BUS200",
+    "title": "ビジネスアナリティクス入門",
+    "summary": "経営判断に役立つデータの可視化・記述統計・簡易回帰を学ぶ。",
+    "topics": ["データ整形", "可視化", "平均と分散", "相関", "単回帰の直観"],
+    "learningObjectives": [
+      "意思決定に役立つ可視化を作れる",
+      "基本統計量を用いて示唆を述べられる"
+    ],
+    "syllabus": [
+      "Week1: データリテラシー",
+      "Week2: 可視化の原則",
+      "Week3: 記述統計",
+      "Week4: 相関と単回帰",
+      "Week5: ダッシュボード作成",
+      "Week6: ケース発表"
+    ],
+    "prerequisites": "高校数学の基礎",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 3,
+    "durationWeeks": 6,
+    "format": "演習中心",
+    "assessment": ["可視化課題", "小テスト", "最終レポート"],
+    "projectIdea": "学内アンケートの分析レポート",
+    "recommendedTools": ["Google Sheets/Excel", "Datawrapper/Looker Studio"]
+  },
+  {
+    "courseId": "COM210",
+    "title": "ビジネスコミュニケーションとプレゼン",
+    "summary": "メール/議事録/提案書/スライドの基本と、人前で伝える技術。",
+    "topics": [
+      "目的と受け手設計",
+      "ストーリーボード",
+      "スライド作法",
+      "会議の運営",
+      "Q&A対応"
+    ],
+    "learningObjectives": [
+      "明確で簡潔な文書を作成できる",
+      "聞き手中心のプレゼンができる"
+    ],
+    "syllabus": [
+      "Week1: 文書の基本型",
+      "Week2: ストーリーと構成",
+      "Week3: スライド設計",
+      "Week4: プレゼン練習",
+      "Week5: 会議運営と記録",
+      "Week6: 最終プレゼン"
+    ],
+    "prerequisites": "なし",
+    "difficulty": "Beginner",
+    "workloadHoursPerWeek": 2,
+    "durationWeeks": 6,
+    "format": "ワークショップ",
+    "assessment": ["文書提出", "中間ピッチ", "最終発表"],
+    "projectIdea": "学内プロジェクトの提案書と発表",
+    "recommendedTools": ["Google Docs/Slides", "タイマー/録画ツール"]
+  }
+]
