@@ -1,0 +1,337 @@
+{
+  "companyName": "株式会社サンプル",
+  "companyAliases": {
+    "shortName": "サンプル",
+    "englishName": "Sample Inc."
+  },
+  "foundedDate": "2010-04-01",
+
+  "identifiers": {
+    "corporateNumber": "1234567890123",
+    "registrationNumber": "東京法務局-令和22-第000123号",
+    "taxId": "T1234567890123"
+  },
+
+  "locations": {
+    "headquarters": {
+      "postalCode": "100-0001",
+      "addressJP": "東京都千代田区サンプル1-2-3 サンプルタワー10F",
+      "addressEN": "10F Sample Tower, 1-2-3 Sample, Chiyoda-ku, Tokyo 100-0001, Japan"
+    },
+    "branches": [
+      {
+        "name": "大阪支社",
+        "addressJP": "大阪府大阪市北区…",
+        "addressEN": "Kita-ku, Osaka…"
+      }
+    ]
+  },
+
+  "contacts": {
+    "phone": "+81-3-1234-5678",
+    "email": "info@example.co.jp",
+    "website": "https://www.example.co.jp"
+  },
+
+  "industry": {
+    "sector": "情報・通信業",
+    "naics": "518210",
+    "description": "クラウドソフトウェアと関連サービスの提供"
+  },
+
+  "businessOverview": "SaaS プロダクトと受託開発を主軸としたB2B事業。",
+
+  "governance": {
+    "representative": { "title": "代表取締役CEO", "name": "山田 太郎" },
+    "officers": [
+      { "title": "取締役CTO", "name": "佐藤 花子" },
+      { "title": "社外取締役", "name": "鈴木 次郎" }
+    ],
+    "auditors": [{ "title": "監査役", "name": "高橋 三郎" }]
+  },
+
+  "organization": {
+    "employeeCount": 250,
+    "capital": { "amountJPY": 500000000, "asOf": "2025-03-31" },
+    "groupCompanies": [
+      { "name": "サンプルソリューションズ株式会社", "relationship": "子会社" }
+    ]
+  },
+
+  "financials": {
+    "currency": "JPY",
+    "fiscalYearEndMonth": 3,
+    "annual": [
+      {
+        "fiscalYear": 2025,
+        "revenue": 5300000000,
+        "operatingIncome": 420000000,
+        "netIncome": 300000000
+      }
+    ],
+    "quarterly": [
+      {
+        "fiscalYear": 2025,
+        "quarter": "Q1",
+        "revenue": 1200000000,
+        "operatingIncome": 90000000,
+        "netIncome": 65000000
+      }
+    ]
+  },
+
+  "shareholders": {
+    "isPublic": true,
+    "market": "東証グロース",
+    "ticker": "1234",
+    "majorHolders": [
+      { "name": "山田 太郎", "percent": 18.5 },
+      { "name": "ABCベンチャーズ", "percent": 12.0 }
+    ]
+  },
+
+  "reportsAndTrends": {
+    "pressReleases": [
+      {
+        "title": "新製品「Sample Cloud 2.0」を発表",
+        "date": "2025-09-20",
+        "url": "https://www.example.co.jp/news/20250920"
+      }
+    ],
+    "irMaterials": [
+      {
+        "title": "2025年3月期 第1四半期決算説明資料",
+        "date": "2025-08-10",
+        "url": "https://ir.example.co.jp/earnings/2025q1.pdf"
+      }
+    ],
+    "earningsReports": [
+      {
+        "period": "2025Q1",
+        "date": "2025-08-10",
+        "url": "https://ir.example.co.jp/earnings/2025q1"
+      }
+    ],
+    "stockSnapshot": {
+      "ticker": "1234",
+      "latestPrice": 1520.5,
+      "currency": "JPY",
+      "asOf": "2025-10-04T15:00:00+09:00"
+    },
+    "majorEvents": [
+      {
+        "type": "M&A",
+        "title": "サンプルソリューションズの完全子会社化",
+        "date": "2025-07-01",
+        "summary": "中小企業向けSaaSの機能強化を目的に子会社化。"
+      }
+    ]
+  },
+
+  "qualitative": {
+    "mission": "テクノロジーですべての業務をシンプルに。",
+    "vision": "中小企業の標準業務OSになる。",
+    "values": ["顧客起点", "スピード", "透明性"],
+    "currentChallenges": [
+      "エンタープライズ獲得のためのセキュリティ認証拡充",
+      "海外展開におけるローカライズコスト"
+    ],
+    "risks": [
+      "主要クラウドベンダーの価格改定による原価上昇",
+      "人材採用難によるプロジェクト遅延"
+    ],
+    "esg": {
+      "policies": ["環境負荷低減のためのデータセンター最適化"],
+      "reports": [
+        {
+          "title": "サステナビリティレポート2025",
+          "url": "https://www.example.co.jp/esg/2025"
+        }
+      ]
+    },
+    "awards": [
+      {
+        "title": "グッドデザイン賞",
+        "year": 2024,
+        "by": "公益財団法人日本デザイン振興会"
+      }
+    ]
+  },
+
+  "counterparties": {
+    "majorCustomers": [
+      { "name": "株式会社アルファ", "industry": "製造" },
+      { "name": "株式会社ベータ", "industry": "小売" }
+    ],
+    "financialInstitutions": [
+      { "name": "○○銀行 本店営業部", "relationship": "主幹事/主要取引銀行" }
+    ],
+    "partners": [
+      { "name": "クラウドベンダーX", "type": "テクノロジーパートナー" }
+    ]
+  },
+
+  "licensesAndPermits": [
+    {
+      "name": "電気通信事業者届出",
+      "id": "A-12-34567",
+      "validFrom": "2021-04-01",
+      "validTo": null
+    }
+  ],
+
+  "recruiting": {
+    "openPositions": [
+      {
+        "title": "バックエンドエンジニア（Go）",
+        "dept": "開発本部",
+        "salaryRangeJPY": { "min": 6000000, "max": 9000000 },
+        "url": "https://careers.example.co.jp/backend-go"
+      }
+    ],
+    "benefitsSummary": "フルリモート可、フレックス、学習支援あり"
+  },
+
+  "intellectualProperty": {
+    "patents": [
+      {
+        "title": "データ同期最適化方式",
+        "number": "JP2023-123456",
+        "status": "公開"
+      }
+    ],
+    "trademarks": [
+      { "mark": "Sample Cloud", "number": "登録第1234567号", "class": "第9類" }
+    ]
+  },
+
+  "documents": {
+    "latestMeetingMinutes": {
+      "date": "2025-09-28",
+      "content": "〜議事録のテキスト〜",
+      "author": "総務部",
+      "attachments": [
+        {
+          "id": "doc_001",
+          "name": "議題一覧.pdf",
+          "link": "https://drive.example.co.jp/doc_001"
+        }
+      ]
+    },
+    "latestBusinessStatus": {
+      "date": "2025-09-30",
+      "summary": "売上は前年同期比+5%、新規顧客は20社増加…",
+      "reportLink": "https://intra.example.co.jp/reports/2025q1"
+    },
+    "latestHandover": {
+      "date": "2025-09-25",
+      "from": { "dept": "営業部", "name": "佐藤" },
+      "to": { "dept": "営業部", "name": "鈴木" },
+      "scope": "法人営業：案件X、主要アカウントY、見積・契約更新",
+      "summary": "案件Xの見積り対応は10/5締切。資料はShareDriveに保存済み。",
+      "pendingTasks": ["顧客Yとの契約更新手続き", "見積書の再提出"],
+      "notesForNextOwner": ["顧客Yは価格感度が高い。割引承認フローに注意。"],
+      "relatedDocs": [
+        {
+          "id": "handover_20250925",
+          "link": "https://drive.example.co.jp/handover_20250925"
+        }
+      ]
+    },
+    "manuals": [
+      {
+        "title": "月次請求処理マニュアル",
+        "dept": "経理",
+        "version": "v1.4",
+        "lastUpdated": "2025-08-31",
+        "link": "https://wiki.example.co.jp/manuals/billing"
+      }
+    ],
+    "contracts": [
+      {
+        "name": "顧客Y 基本契約書",
+        "counterparty": "株式会社Y",
+        "effectiveFrom": "2024-10-01",
+        "effectiveTo": "2026-09-30",
+        "status": "有効",
+        "storageLink": "https://dms.example.co.jp/contracts/xyz"
+      }
+    ],
+    "importantDocuments": [
+      {
+        "name": "個人情報保護方針",
+        "category": "ポリシー",
+        "lastUpdated": "2025-06-01",
+        "link": "https://intra.example.co.jp/policies/privacy"
+      }
+    ]
+  },
+
+  "knowledgeAndHistory": {
+    "projects": {
+      "inProgress": [
+        {
+          "projectId": "PRJ-2025-001",
+          "name": "Sample Cloud 2.0 開発",
+          "ownerDept": "プロダクト開発",
+          "pm": "田中 一郎",
+          "status": "進行中",
+          "milestones": [
+            { "name": "Betaリリース", "due": "2025-10-31", "status": "予定" }
+          ],
+          "docs": [
+            {
+              "type": "設計書",
+              "link": "https://docs.example.co.jp/design/sc2"
+            }
+          ]
+        }
+      ],
+      "completed": [
+        {
+          "projectId": "PRJ-2024-010",
+          "name": "請求基盤リプレイス",
+          "completedOn": "2025-03-15",
+          "outcomes": ["処理時間を60%改善", "障害率を70%低減"],
+          "artifacts": [
+            {
+              "type": "成果報告",
+              "link": "https://docs.example.co.jp/reports/billing-revamp"
+            }
+          ]
+        }
+      ]
+    },
+    "artifacts": [
+      {
+        "name": "API仕様書（社外向け）",
+        "link": "https://docs.example.co.jp/public-api"
+      }
+    ],
+    "wikiLinks": [
+      { "title": "社内Wikiトップ", "link": "https://wiki.example.co.jp" }
+    ],
+    "onboardingMaterials": [
+      {
+        "title": "新入社員向けオンボーディング",
+        "link": "https://intra.example.co.jp/onboarding"
+      }
+    ]
+  },
+
+  "timelineAndMeta": {
+    "lastUpdatedAt": "2025-10-04T18:00:00+09:00",
+    "authors": [
+      { "name": "総務部 事務局", "role": "編集" },
+      { "name": "経理部 マネージャー", "role": "財務データ更新" }
+    ],
+    "approvers": [{ "name": "管理本部長", "role": "承認" }],
+    "relatedDocumentIds": ["doc_001", "handover_20250925"],
+    "confidentiality": "internal",
+    "dataSources": [
+      { "type": "Google Drive", "link": "https://drive.example.co.jp" },
+      { "type": "社内Wiki", "link": "https://wiki.example.co.jp" },
+      { "type": "IRサイト", "link": "https://ir.example.co.jp" }
+    ]
+  }
+}
